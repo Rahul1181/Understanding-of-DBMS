@@ -1,0 +1,50 @@
+
+What is DBMS?
+
+Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data. A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database.
+
+DBMS manage the data, the database engine, and the database schema, allowing for data to be manipulated or extracted by users and other programs. This helps provide data security, data integrity, concurrency, and uniform data administration procedures.
+
+DBMS optimizes the organization of data by following a database schema design technique called normalization, which splits a large table into smaller tables when any of its attributes have redundancy in values. DBMS offer many benefits over traditional file systems, including flexibility and a more complex backup system.
+
+Database management systems can be classified based on a variety of criteria such as the data model, the database distribution, or user numbers. The most widely used types of DBMS software are relational, distributed, hierarchical, object-oriented, and network.
+Distributed database management system
+
+A distributed DBMS is a set of logically interrelated databases distributed over a network that is managed by a centralized database application. This type of DBMS synchronizes data periodically and ensures that any change to data is universally updated in the database.
+Hierarchical database management system
+
+Hierarchical databases organize model data in a tree-like structure. Data storage is either a top-down or bottom-up format and is represented using a parent-child relationship.
+Network database management system
+
+The network database model addresses the need for more complex relationships by allowing each child to have multiple parents. Entities are organized in a graph that can be accessed through several paths.
+Relational database management system
+
+Relational database management systems (RDBMS) are the most popular data model because of its user-friendly interface. It is based on normalizing data in the rows and columns of the tables. This is a viable option when you need a data storage system that is scalable, flexible, and able to manage lots of information.
+Object-oriented database management system
+
+Object-oriented models store data in objects instead of rows and columns. It is based on object-oriented programming (OOP) that allows objects to have members such as fields, properties, and methods.
+Examples of DBMS
+
+There is a wide range of database software solutions, including both enterprise and open source solutions, available for database management.
+
+Here are some of the most popular database management systems:
+Oracle
+
+Oracle Database is a commercial relational database management system. It utilizes enterprise-scale database technology with a robust set of features right out of the box. It can be stored in the cloud or on-premises.
+
+Learn how AppDynamics helps with Oracle monitoring
+MySQL
+
+MySQL is a relational database management system that is commonly used with open-source content management systems and large platforms like Facebook, Twitter, and Youtube.
+
+Learn how AppDynamics helps with MySQL monitoring
+SQL Server
+
+Developed by Microsoft, SQL Server is a relational database management system built on top of structured query language (SQL), a standardized programming language that allows database administrators to manage databases and query data.
+
+Learn how AppDynamics helps with SQL server monitoring
+Optimizing database performance
+
+For large organizations, databases contain mission-critical record items that have complex logical relationships with a myriad of other datasets that grow with the amount of users. As a result, organizations need to actively monitor, tune, and improve their databases to ensure a high level of performance.
+
+Several key factors influence database performance, including system resources, workload, throughput, contention, and optimization. Without a database monitoring tool, it is difficult to accurately assess how each of these factors impact database performance and have a longer lasting impact on application as well as business performance.
